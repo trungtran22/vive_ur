@@ -58,6 +58,6 @@ rosrun vive_ur10e close_servervr.sh
 - Visualization in RViz:
 ![](https://github.com/trungtran22/vive_ur10e/blob/main/docs/vive_controlling_2.gif)
 - Implementation on UR3e: I slowed down the robot velocity to avoid damage 
-[![Please click to watch my demo on UR3:]()]([https://youtube.com](https://youtube.com/shorts/JMSlqSJO2ig?si=-WGQ2coQeshmn7Ns))
+[![Please click to watch my demo on UR3:]()]([https://youtube.com/shorts/JMSlqSJO2ig?si=-WGQ2coQeshmn7Ns])
 
 
